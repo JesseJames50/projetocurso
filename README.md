@@ -1,4 +1,3 @@
-# first_app
+# Projeto do Curso PROZ EDUCAÇÃO
 
-App do Contador, ensinado do zero.
-Vimos alguns widgets básicos, componentização de widgets, stateless x stateful.
+Aplicativo de Finanças Pessoais em desenvolvimento no curso de Flutter.
